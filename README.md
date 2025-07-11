@@ -45,3 +45,12 @@ Ask questions like:
 “List the key findings.”
 
 “Who are the authors and when was it published?”
+
+## 🖼️ Screenshots
+
+### 💬 Chat UI
+![Chat UI](images/CHATBOT.png)
+
+### 📄 PDF Upload + RAG
+![PDF QA](images/chatbot-2.png)
+
