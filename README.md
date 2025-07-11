@@ -7,7 +7,8 @@ It allows users to:
 
 ---
 
-## 📁 Project Structure
+<pre><code>## 📁 Project Structure ``` ai-chatbot/ │ ├── phase1.py ← 🚀 Main Streamlit app ├── .env ← 🔐 GROQ API Key and environment variables ├── requirements.txt ← 📦 Python dependencies ├── README.md ← 📘 Project documentation │ ├── data/ ← 📄 Uploaded PDFs (created automatically) │ └── sample.pdf │ ├── vectorstore/ ← 🧠 ChromaDB vector storage (auto-generated) │ └── index_data/ │ ├── assets/ ← 🖼️ Screenshots/images for README │ ├── chat-ui.png │ └── pdf-demo.png │ ├── utils/ ← 🧩 Core helper scripts │ ├── file_utils.py ← 📤 Load, clean, split PDFs into chunks │ └── rag_pipeline.py ← 🔁 Embedding, ChromaDB, retrieval logic ``` </code></pre>
+
 
 
 
