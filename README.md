@@ -20,6 +20,15 @@ LLMs: GROQ API (llama3-8b-8192, mixtral-8x7b-32768, etc.)
 
 PDF Processing: PyPDF, LangChain.text_splitter
 
+## ✨ Features
+
+- ✅ Chat with LLaMA-3 (via GROQ) in real time
+- 📄 Upload your own PDFs and ask questions from them
+- 🔍 Uses RAG to fetch relevant chunks from documents
+- 🧠 Stores document embeddings in ChromaDB vector store
+- 🖼️ Clean, Streamlit-based interactive UI
+- 💬 Maintains chat history during session
+
 ## How to Use
 Launch the app in your browser.
 
