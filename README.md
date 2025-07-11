@@ -12,7 +12,7 @@ It allows users to:
 ## Tech Stack
 Frontend: Streamlit
 
-Backend Logic: Python, LangChain
+Backend Logic: Python, LangChain, RAG,LLM
 
 Vector DB: ChromaDB
 
