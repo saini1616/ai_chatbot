@@ -7,18 +7,9 @@ It allows users to:
 
 ---
 
-##  Project Structure
+## 📁 Project Structure
 
-ai-chatbot/
-├── data/ # Stores uploaded PDF files
-├── vectorstore/ # ChromaDB storage for document embeddings
-├── utils/
-│ ├── file_utils.py # Loads, cleans, and chunks PDF content
-│ └── rag_pipeline.py # Embedding, vectorization, and retrieval logic
-├── .env # Stores your GROQ API key
-├── phase1.py # Main Streamlit application
-├── requirements.txt # List of all required Python packages
-└── README.md # You're here!
+
 
 ## Tech Stack
 Frontend: Streamlit
